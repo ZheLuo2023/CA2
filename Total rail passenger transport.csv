@@ -1,5 +1,4 @@
-﻿
-"COUNTRY","Country","VARIABLE","Variable","TIME","Time","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+﻿"COUNTRY","Country","VARIABLE","Variable","TIME","Time","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
 "JPN","Japan","Q-RL-PASS-TOT","Total rail passenger transport","1994-01","Jan-1994","PKM","Passenger-kilometres","6","Millions",,,33162,,
 "JPN","Japan","Q-RL-PASS-TOT","Total rail passenger transport","1994-02","Feb-1994","PKM","Passenger-kilometres","6","Millions",,,29890,,
 "JPN","Japan","Q-RL-PASS-TOT","Total rail passenger transport","1994-03","Mar-1994","PKM","Passenger-kilometres","6","Millions",,,32379,,
